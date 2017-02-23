@@ -1,3 +1,5 @@
+#! /usr/bin/env pythonw
+
 from bgRem import *
 import glob,sys, pickle as pick
 from astropy.io import fits
