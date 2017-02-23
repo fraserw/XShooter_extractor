@@ -1,3 +1,5 @@
+#! /usr/bin/env pythonw
+
 from astropy.io import fits
 from trippy import bgFinder
 import numpy as np,sys
